@@ -33,7 +33,7 @@
 🔹 **[Proyecto 2](#)** — https://github.com/gustavo2048/VeterinariaBackEnd
 🔹 **[Proyecto 3](#)** — https://github.com/gustavo2048/VeterinariaFronEnd
 
-> 💡 *Te recomiendo fijar (pin) tus mejores repositorios y añadir capturas o demos en cada README para destacarlos visualmente.*
+> 
 
 ---
 
