@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Lautaro
 
 💻 **Desarrollador Backend & Frontend Jr** con experiencia en el ecosistema **.NET** y conocimientos en **Python**, **JavaScript** y **TypeScript**.  
-🚀 Apasionado por el aprendizaje constante, la **ciberseguridad**, la **forensia digital** y la creación de soluciones eficientes.  
+
 
 ---
 
@@ -29,9 +29,9 @@
 
 ## 🌟 Proyectos Destacados
 
-🔹 **[Proyecto 1](#)** — Descripción breve de tu mejor proyecto (ej. sistema de gestión con .NET + SQL Server).  
-🔹 **[Proyecto 2](#)** — Ejemplo de API REST con Flask o integración con Mercado Pago.  
-🔹 **[Proyecto 3](#)** — Proyecto personal o de práctica que muestre tu curiosidad técnica.
+🔹 **[Proyecto 1](#)** — https://github.com/Lautarrro/SAR1
+🔹 **[Proyecto 2](#)** — https://github.com/gustavo2048/VeterinariaBackEnd
+🔹 **[Proyecto 3](#)** — https://github.com/gustavo2048/VeterinariaFronEnd
 
 > 💡 *Te recomiendo fijar (pin) tus mejores repositorios y añadir capturas o demos en cada README para destacarlos visualmente.*
 
@@ -52,11 +52,11 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lautaro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/TU-LINKEDIN-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lautaro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lautaro-alcorta-69a140285/)
 [![GitHub](https://img.shields.io/badge/GitHub-Lautarrro-181717?style=for-the-badge&logo=github)](https://github.com/Lautarrro)
 
 </div>
 
 ---
 
-💬 *"La mejor forma de aprender a programar es construir, equivocarse y volver a intentarlo con más conocimiento."* 🚀
+ *"La mejor forma de aprender a programar es construir, equivocarse y volver a intentarlo con más conocimiento."* 
